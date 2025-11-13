@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+streamlit
+pydantic
+sentence-transformers
+weaviate-client
+redis
+transformers
+numpy
+python-dotenv
+requests
